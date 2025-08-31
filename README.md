@@ -1,10 +1,10 @@
-<h1 align="middle">☀️ 태양광 발전 효율 및 최적 입지 분석 </h1>
+<img width="230" height="511" alt="image" src="https://github.com/user-attachments/assets/646129ce-e94d-4c9b-8b77-fcda763a35ce" /><h1 align="middle">☀️ 태양광 발전 효율 및 최적 입지 분석 </h1>
 
 <h5 align="middle">배포 URL : https://taehyunan-99.github.io/project_seasonal_renewable_energy/</h5>
 
 <br/>
 
-## 1. 프로젝트 소개
+## 1. 📋 프로젝트 소개
 
 ### 프로젝트 내용
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-## 2. 팀원 구성 및 역할
+## 2. 👨‍💻 팀원 구성 및 역할
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 <br/>
 
-## 3. 개발 기간 및 일정 관리
+## 3. 📅 개발 기간 및 일정 관리
 
 ### 전체 개발 기간
 
@@ -68,16 +68,33 @@
 
 Notion 기반 프로젝트 관리 시스템 구축 - 일정 계획, 작업 배분, 진행도 모니터링
 
-<a href=""><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a>
+<a href="https://ebony-guavaberry-8f8.notion.site/PROJECT-24dfbc6bf20680f29c0bf6822fd209ad"><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a>
 
 <br/>
 
-## 4. 개발 기술
+## 4. 🛠 개발 기술
+
+### 💻 개발 환경
+- [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+- [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  `v3.13.5`
+
+### 📊 데이터 분석
+- [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) `v2.3.1`
+- [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) `v2.3.1`
+
+### 📈 데이터 시각화  
+- [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)](https://matplotlib.org/) `v3.10.0`
+- [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/) `v6.2.0`
+- [![Folium](https://img.shields.io/badge/Folium-77B829?style=flat&logo=leaflet&logoColor=white)](https://python-visualization.github.io/folium/) `v0.14.0`
+
+### 🌐 Web 구현
+- [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 <br/>
 
-## 5. 브랜치 전략
+## 5. 🔀 브랜치 전략
 
 <br/>
 
-## 6. 프로젝트 구조
+## 6. 📂 프로젝트 구조
