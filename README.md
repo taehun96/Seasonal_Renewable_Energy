@@ -1,4 +1,4 @@
-<img width="230" height="511" alt="image" src="https://github.com/user-attachments/assets/646129ce-e94d-4c9b-8b77-fcda763a35ce" /><h1 align="middle">☀️ 태양광 발전 효율 및 최적 입지 분석 </h1>
+<h1 align="middle">☀️ 태양광 발전 효율 및 최적 입지 분석 </h1>
 
 <h5 align="middle">배포 URL : https://taehyunan-99.github.io/project_seasonal_renewable_energy/</h5>
 
