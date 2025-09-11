@@ -1,5 +1,3 @@
-<h1 align="middle">☀️ 태양광 발전 효율 및 최적 입지 분석 </h1>
-
 <h5 align="middle">배포 URL : https://taehyunan-99.github.io/project_seasonal_renewable_energy/</h5>
 
 <br/>
@@ -128,3 +126,6 @@ Notion 기반 프로젝트 관리 시스템 구축 - 일정 계획, 작업 배�
 3. **통합 단계**: 기능 완료 후 `develop` 브랜치로 Pull Request 및 merge
 4. **최종 검증**: `develop`에서 전체 기능 통합 테스트 및 검증
 5. **배포**: 프로젝트 완성 시 `develop` ➡️ `main` 최종 merge
+=======
+https://taehyunan-99.github.io/project_seasonal_renewable_energy/
+
